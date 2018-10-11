@@ -11,6 +11,10 @@ public class TestClass{
 	public void setName(String name){
 		g_name = name;
 	}
+
+	public String combineName(String name1, String name2){
+		return name1 + name2;
+	}
 }
 
 
