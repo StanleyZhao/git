@@ -28,6 +28,7 @@ public class TestClass{
 	multiply 4
 	multiply 5
 	divide 1
+	divide 2
 	
 }
 
