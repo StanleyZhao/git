@@ -24,6 +24,7 @@ public class TestClass{
 	multiply 1
 	multiply 2
 	multiply 3
+	multiply 4
 	
 }
 
