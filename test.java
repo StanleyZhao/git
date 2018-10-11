@@ -4,7 +4,7 @@ public class TestClass{
 	public TestClass(int a){
 	}
 	
-	//add more comment
+	//add more comment 1
 	private String g_name;
 	public String getName(){
 		return name;
@@ -12,7 +12,7 @@ public class TestClass{
 	public void setName(String name){
 		g_name = name;
 	}
-	// combine two name into one
+	// combine two name into one 
 	public String combineName(String name1, String name2){
 		return name1 + name2;
 	}
