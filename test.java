@@ -20,6 +20,7 @@ public class TestClass{
 	add 3
 	substract 1
 	substract 2
+	substract 3
 }
 
 
