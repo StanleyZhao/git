@@ -4,6 +4,7 @@ public class TestClass{
 	public TestClass(int a){
 	}
 	
+	//add more comment
 	private String g_name;
 	public String getName(){
 		return name;
