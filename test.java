@@ -23,6 +23,7 @@ public class TestClass{
 	substract 3
 	multiply 1
 	multiply 2
+	multiply 3
 	
 }
 
