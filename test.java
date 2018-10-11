@@ -21,7 +21,7 @@ public class TestClass{
 	add 3
 	substract 1
 	substract 2
-	substract 3
+	substract 5
 	multiply 1
 	multiply 2
 	multiply 3
