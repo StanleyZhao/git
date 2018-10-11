@@ -15,6 +15,9 @@ public class TestClass{
 	public String combineName(String name1, String name2){
 		return name1 + name2;
 	}
+	add 1
+	add 2
+	add 3
 }
 
 
