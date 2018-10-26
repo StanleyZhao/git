@@ -30,6 +30,8 @@ public class TestClass{
 	divide 1
 	divide 2
 	divide 3
+	n1
+	n2
 	
 }
 
